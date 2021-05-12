@@ -66,8 +66,6 @@ public class MainActivity extends AppCompatActivity {
     public String IamUserMoid;
     ArrayList<String> ActiveCenters = new ArrayList<String>();
     ArrayList<String> MyCenters = new ArrayList<String>();
-    //Test commit
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
